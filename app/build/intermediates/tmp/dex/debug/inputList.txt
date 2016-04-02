@@ -1,0 +1,2 @@
+C:\Users\pedro\AndroidstudioProjects\SalmoDiario\app\build\intermediates\classes\debug
+C:\Users\pedro\AndroidstudioProjects\SalmoDiario\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-70250d0ac0cc2166ed0ad8f0d8fda9474571b882.jar

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Salmo Diário</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Bem Vindo!</string>
+    <string name="drawer_open">Abrir Menu</string>
+    <string name="drawer_close">Fechar Menu</string>
+    <string name="title_activity_buscar">BuscarActivity</string>
+    <string name="title_activity_sobre">SobreActivity</string>
+    <string name="pordia">Salmo do Dia</string>
+    <string name="aleatorio">Salmo Aleatório</string>
+    <string name="sobre">Sobre</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+
+</resources>
