@@ -6,8 +6,8 @@
     <string name="hello_world">Bem Vindo!</string>
     <string name="drawer_open">Abrir Menu</string>
     <string name="drawer_close">Fechar Menu</string>
-    <string name="title_activity_buscar">BuscarActivity</string>
-    <string name="title_activity_sobre">SobreActivity</string>
+    <string name="title_activity_buscar">Buscar Salmo</string>
+    <string name="title_activity_sobre">Sobre</string>
     <string name="pordia">Salmo do Dia</string>
     <string name="aleatorio">Salmo Aleatório</string>
     <string name="sobre">Sobre</string>

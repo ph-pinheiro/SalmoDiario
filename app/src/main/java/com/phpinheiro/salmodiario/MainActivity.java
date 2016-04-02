@@ -67,7 +67,6 @@ public class MainActivity extends Activity {
             Log.v(TAG, "serviço de alarme já está rodando.");
         }
 
-
         criarSalmoDoDia();
 
     }
@@ -151,6 +150,8 @@ public class MainActivity extends Activity {
         //Salmo salmoTeste = db.getSalmoPorNumero("3");
         Salmo salmoTeste = db.getSalmoPorData3(dataDeHoje);
 
+
+
         ((TextView) findViewById(R.id.salmoDoDiaTitulo)).setText("Salmo " + salmoTeste.getNumero() + " - " + dataDeHoje);
         ((TextView) findViewById(R.id.salmoDoDiaTexto)).setText(salmoTeste.getTexto());
 
@@ -160,9 +161,9 @@ public class MainActivity extends Activity {
 
         MySQLiteHelper db = new MySQLiteHelper(this);
         Random randomGenerator = new Random();
-        int randomInt = randomGenerator.nextInt(100);
+        int randomInt = randomGenerator.nextInt(150);
         while(randomInt == 0){
-        	randomInt = randomGenerator.nextInt(100);
+        	randomInt = randomGenerator.nextInt(150);
         }
         Salmo salmoTeste = db.getSalmoPorNumero(String.valueOf(randomInt));
 
