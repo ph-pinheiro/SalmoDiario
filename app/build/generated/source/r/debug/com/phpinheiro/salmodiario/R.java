@@ -19,23 +19,25 @@ public final class R {
         public static final int activity_vertical_margin=0x7f060001;
     }
     public static final class drawable {
-        public static final int drawer_shadow=0x7f020000;
-        public static final int ic_action_about=0x7f020001;
-        public static final int ic_action_camera=0x7f020002;
-        public static final int ic_action_cloud=0x7f020003;
-        public static final int ic_action_email=0x7f020004;
-        public static final int ic_action_gamepad=0x7f020005;
-        public static final int ic_action_good=0x7f020006;
-        public static final int ic_action_group=0x7f020007;
-        public static final int ic_action_help=0x7f020008;
-        public static final int ic_action_import_export=0x7f020009;
-        public static final int ic_action_labels=0x7f02000a;
-        public static final int ic_action_search=0x7f02000b;
-        public static final int ic_action_settings=0x7f02000c;
-        public static final int ic_action_video=0x7f02000d;
-        public static final int ic_drawer=0x7f02000e;
-        public static final int ic_launcher=0x7f02000f;
-        public static final int splash=0x7f020010;
+        public static final int bgpaper=0x7f020000;
+        public static final int bgpaper_repeating=0x7f020001;
+        public static final int drawer_shadow=0x7f020002;
+        public static final int ic_action_about=0x7f020003;
+        public static final int ic_action_camera=0x7f020004;
+        public static final int ic_action_cloud=0x7f020005;
+        public static final int ic_action_email=0x7f020006;
+        public static final int ic_action_gamepad=0x7f020007;
+        public static final int ic_action_good=0x7f020008;
+        public static final int ic_action_group=0x7f020009;
+        public static final int ic_action_help=0x7f02000a;
+        public static final int ic_action_import_export=0x7f02000b;
+        public static final int ic_action_labels=0x7f02000c;
+        public static final int ic_action_search=0x7f02000d;
+        public static final int ic_action_settings=0x7f02000e;
+        public static final int ic_action_video=0x7f02000f;
+        public static final int ic_drawer=0x7f020010;
+        public static final int ic_launcher=0x7f020011;
+        public static final int splash=0x7f020012;
     }
     public static final class id {
         public static final int action_settings=0x7f0a0012;

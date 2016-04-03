@@ -1,50 +1,29 @@
 package com.phpinheiro.salmodiario;
 
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.List;
 import java.util.Locale;
 import java.util.Random;
-import java.util.TimeZone;
 
 import com.phpinheiro.salmodiario.model.Salmo;
 import com.phpinheiro.salmodiario.sqlite.MySQLiteHelper;
 
-import android.annotation.TargetApi;
 import android.app.ActivityManager;
 import android.app.AlarmManager;
-import android.app.Notification;
-import android.app.NotificationManager;
 import android.app.PendingIntent;
-import android.app.TaskStackBuilder;
 import android.content.Context;
-import android.content.pm.ResolveInfo;
-import android.os.Build;
 import android.os.Bundle;
 import android.app.Activity;
-import android.app.Fragment;
-import android.app.FragmentManager;
 import android.content.Intent;
 import android.content.res.Configuration;
-import android.os.Parcelable;
-import android.support.v4.app.ActionBarDrawerToggle;
-import android.support.v4.app.NotificationCompat;
-import android.support.v4.view.GravityCompat;
-import android.support.v4.view.MenuItemCompat;
-import android.support.v4.widget.DrawerLayout;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ListView;
 import android.widget.ShareActionProvider;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import static android.support.v4.view.MenuItemCompat.*;
+import android.graphics.Typeface;
 
 public class MainActivity extends Activity {
 
@@ -57,6 +36,8 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
+        Typeface typeface = Typeface.createFromAsset(getAssets(), "fonts/script.otf");
+        ((TextView) findViewById(R.id.salmoDoDiaTexto)).setTypeface(typeface);
 
         if(!isMyServiceRunning(AlarmService.class)){
             Log.v(TAG, "serviço de alarme não está rodando. Iniciando");
