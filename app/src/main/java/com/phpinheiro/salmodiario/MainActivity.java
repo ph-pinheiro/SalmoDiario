@@ -128,13 +128,13 @@ public class MainActivity extends Activity {
         //dataDeHoje = "25/10/2015";
         //Log.v(TAG, "dataDeHoje = " + dataDeHoje);
 
-        //Salmo salmoTeste = db.getSalmoPorNumero("3");
-        Salmo salmoTeste = db.getSalmoPorData3(dataDeHoje);
+        Salmo salmoTeste = db.getSalmoPorNumero("115");
+        //Salmo salmoTeste = db.getSalmoPorData3(dataDeHoje);
 
 
 
         ((TextView) findViewById(R.id.salmoDoDiaTitulo)).setText("Salmo " + salmoTeste.getNumero() + " - " + dataDeHoje);
-        ((TextView) findViewById(R.id.salmoDoDiaTexto)).setText(salmoTeste.getTexto());
+        ((TextView) findViewById(R.id.salmoDoDiaTexto)).setText(salmoTeste.getTitulo() + "\n" + salmoTeste.getTexto());
 
     }
 
@@ -149,7 +149,7 @@ public class MainActivity extends Activity {
         Salmo salmoTeste = db.getSalmoPorNumero(String.valueOf(randomInt));
 
         ((TextView) findViewById(R.id.salmoDoDiaTitulo)).setText("Salmo " + salmoTeste.getNumero());
-        ((TextView) findViewById(R.id.salmoDoDiaTexto)).setText(salmoTeste.getTexto());
+        ((TextView) findViewById(R.id.salmoDoDiaTexto)).setText(salmoTeste.getTitulo() + "\n" + salmoTeste.getTexto());
 
     }
 

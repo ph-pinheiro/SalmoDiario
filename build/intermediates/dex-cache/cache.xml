@@ -8,12 +8,5 @@
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
         <dex dex="C:\Users\pedro\AndroidstudioProjects\SalmoDiario\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-70250d0ac0cc2166ed0ad8f0d8fda9474571b882.jar" />
     </item>
-    <item
-        jar="C:\Users\pedro\AndroidstudioProjects\SalmoDiario\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4184f9a8ea49ba3621aed6522cff070a42929741">
-        <dex dex="C:\Users\pedro\AndroidstudioProjects\SalmoDiario\app\build\intermediates\pre-dexed\debug\classes-fa9f0011b710362a937e452059ff1ef79b62c1c2.jar" />
-    </item>
 
 </items>
