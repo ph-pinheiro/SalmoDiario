@@ -128,7 +128,7 @@ public class MainActivity extends Activity {
         //dataDeHoje = "25/10/2015";
         //Log.v(TAG, "dataDeHoje = " + dataDeHoje);
 
-        Salmo salmoTeste = db.getSalmoPorNumero("115");
+        Salmo salmoTeste = db.getSalmoPorNumero("119");
         //Salmo salmoTeste = db.getSalmoPorData3(dataDeHoje);
 
 

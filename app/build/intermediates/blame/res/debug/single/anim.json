@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\anim\\fade_in.xml"
+    }
+]
