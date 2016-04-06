@@ -20,7 +20,7 @@ import android.util.Log;
 public class MySQLiteHelper extends SQLiteOpenHelper {
 	
 	//versao do banco - incrementar a cada alteração no banco
-	private static final int DATABASE_VERSION = 9;
+	private static final int DATABASE_VERSION = 10;
 	
 	//nome do banco
 	private static final String DATABASE_NAME = "SalmosDB";
