@@ -8,12 +8,12 @@
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sobre.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\menu\\menu_sobre.xml"
-    },
-    {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\menu\\buscar.xml",
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\menu\\buscar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sobre.xml",
+        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\menu\\menu_sobre.xml"
     },
     {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_activity2.xml",

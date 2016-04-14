@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_about.png",
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_help.png",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_labels.png",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_labels.png"
-    },
-    {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_group.png",
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_group.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_labels.png",
+        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_labels.png"
     },
     {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_camera.png",
@@ -48,24 +48,24 @@
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_video.png"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_shadow.9.png",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
-    },
-    {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_import_export.png",
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_import_export.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_shadow.9.png",
+        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
     },
     {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_gamepad.png",
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_gamepad.png"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_good.png",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_good.png"
-    },
-    {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_cloud.png",
         "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_good.png",
+        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\drawable-hdpi\\ic_action_good.png"
     },
     {
         "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_email.png",
