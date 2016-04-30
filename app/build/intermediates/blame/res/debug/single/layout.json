@@ -1,38 +1,38 @@
 [
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sobre.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\fragment_sobre.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/custom_drawer_item.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/custom_drawer_item.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_drawer_item.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\custom_drawer_item.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/fragment_layout_two.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/fragment_layout_two.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout_three.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\fragment_layout_three.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/activity_sobre.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/activity_sobre.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sobre.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\activity_sobre.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/buscar.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/buscar.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout_two.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\fragment_layout_two.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/fragment_layout_one.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/fragment_layout_one.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\splashscreen.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/fragment_sobre.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/fragment_sobre.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/fragment_layout_three.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/fragment_layout_three.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout_one.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\fragment_layout_one.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/splashscreen.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/splashscreen.xml"
     },
     {
-        "merged": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buscar.xml",
-        "source": "C:\\Users\\pedro\\AndroidstudioProjects\\SalmoDiario\\app\\src\\main\\res\\layout\\buscar.xml"
+        "merged": "/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/phpinheiro/StudioProjects/SalmoDiario/app/src/main/res/layout/main.xml"
     }
 ]
