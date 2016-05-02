@@ -40,26 +40,31 @@ public final class R {
         public static final int splash=0x7f020012;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a0012;
-        public static final int aleatorio=0x7f0a0010;
-        public static final int content_frame=0x7f0a0001;
-        public static final int drawer_icon=0x7f0a0004;
-        public static final int drawer_itemName=0x7f0a0005;
+        public static final int action_settings=0x7f0a0017;
+        public static final int aleatorio=0x7f0a0015;
+        public static final int content_frame=0x7f0a0005;
+        public static final int content_frame_sobre=0x7f0a0001;
+        public static final int drawer_icon=0x7f0a0008;
+        public static final int drawer_itemName=0x7f0a0009;
         public static final int drawer_layout=0x7f0a0000;
-        public static final int frag1_icon=0x7f0a0006;
-        public static final int frag1_text=0x7f0a0007;
-        public static final int frag2_icon=0x7f0a000a;
-        public static final int frag2_text=0x7f0a000b;
-        public static final int frag3_icon=0x7f0a0008;
-        public static final int frag3_text=0x7f0a0009;
-        public static final int itemLayout=0x7f0a0003;
-        public static final int left_drawer=0x7f0a0002;
-        public static final int menu_item_share=0x7f0a0013;
-        public static final int pordia=0x7f0a000f;
-        public static final int salmoDoDiaTexto=0x7f0a000d;
-        public static final int salmoDoDiaTitulo=0x7f0a000c;
-        public static final int sobre=0x7f0a0011;
-        public static final int voltar=0x7f0a000e;
+        public static final int frag1_icon=0x7f0a000a;
+        public static final int frag1_text=0x7f0a000b;
+        public static final int frag2_icon=0x7f0a000e;
+        public static final int frag2_text=0x7f0a000f;
+        public static final int frag3_icon=0x7f0a000c;
+        public static final int frag3_text=0x7f0a000d;
+        public static final int itemLayout=0x7f0a0007;
+        public static final int left_drawer=0x7f0a0006;
+        public static final int menu_item_share=0x7f0a0018;
+        public static final int pordia=0x7f0a0014;
+        public static final int salmoDoDiaTexto=0x7f0a0012;
+        public static final int salmoDoDiaTitulo=0x7f0a0010;
+        public static final int salmoDoDiaTrecho=0x7f0a0011;
+        public static final int sobre=0x7f0a0016;
+        public static final int sobreText1=0x7f0a0002;
+        public static final int sobreText2=0x7f0a0003;
+        public static final int sobreText3=0x7f0a0004;
+        public static final int voltar=0x7f0a0013;
     }
     public static final class layout {
         public static final int activity_sobre=0x7f030000;
@@ -89,9 +94,10 @@ public final class R {
         public static final int hello_world=0x7f060006;
         public static final int pordia=0x7f060007;
         public static final int sobre=0x7f060008;
-        public static final int title_activity_buscar=0x7f060009;
-        public static final int title_activity_main_activity2=0x7f06000a;
-        public static final int title_activity_sobre=0x7f06000b;
+        public static final int sobreText1=0x7f060009;
+        public static final int title_activity_buscar=0x7f06000a;
+        public static final int title_activity_main_activity2=0x7f06000b;
+        public static final int title_activity_sobre=0x7f06000c;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

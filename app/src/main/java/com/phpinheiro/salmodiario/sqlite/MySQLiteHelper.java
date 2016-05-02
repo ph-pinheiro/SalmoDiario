@@ -20,14 +20,14 @@ import android.util.Log;
 public class MySQLiteHelper extends SQLiteOpenHelper {
 	
 	//versao do banco - incrementar a cada alteração no banco
-	private static final int DATABASE_VERSION = 10;
+	private static final int DATABASE_VERSION = 13;
 	
 	//nome do banco
 	private static final String DATABASE_NAME = "SalmosDB";
 	
 	private final Context fContext;
 	
-	private static final String[] COLUMNS = {SalmosColumns.ID, SalmosColumns.NUMERO, SalmosColumns.TITULO, SalmosColumns.TEXTO, SalmosColumns.DATA};
+	private static final String[] COLUMNS = {SalmosColumns.ID, SalmosColumns.NUMERO, SalmosColumns.TITULO, SalmosColumns.TEXTO, SalmosColumns.DATA, SalmosColumns.TRECHO};
 
     private static final String TAG = "MySQLiteHelper";
 
@@ -44,7 +44,8 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
 				"numero TEXT, " +
 				"titulo TEXT, " +
 				"texto TEXT, " +
-				"data TEXT )";
+				"data TEXT, " +
+				"trecho TEXT )";
 		
 		db.execSQL(CREATE_SALMOS_TABLE);
 		
@@ -60,10 +61,12 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
 					String _titulo = xml.getAttributeValue(null, SalmosColumns.TITULO);
 					String _texto = xml.getAttributeValue(null, SalmosColumns.TEXTO);
 					String _data = xml.getAttributeValue(null, SalmosColumns.DATA);
+					String _trecho = xml.getAttributeValue(null, SalmosColumns.TRECHO);
 					valores.put(SalmosColumns.NUMERO, _numero);
 					valores.put(SalmosColumns.TITULO, _titulo);
 					valores.put(SalmosColumns.TEXTO, _texto);
 					valores.put(SalmosColumns.DATA, _data);
+						valores.put(SalmosColumns.TRECHO, _trecho);
 					db.insert(SalmosColumns.TABLENAME, null, valores);
 				}
 				eventType = xml.next();
@@ -116,6 +119,7 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
 		salmo.setTitulo(cursor.getString(2));
 		salmo.setTexto(cursor.getString(3));
 		salmo.setData(cursor.getString(4));
+		salmo.setTrecho(cursor.getString(5));
 		
 		return salmo;
 	}
@@ -143,6 +147,7 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
         salmo.setTitulo(cursor.getString(2));
         salmo.setTexto(cursor.getString(3));
         salmo.setData(cursor.getString(4));
+		salmo.setTrecho(cursor.getString(5));
 
         return salmo;
     }
@@ -165,6 +170,7 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
         salmo.setTitulo(cursor.getString(2));
         salmo.setTexto(cursor.getString(3));
         salmo.setData(cursor.getString(4));
+		salmo.setTrecho(cursor.getString(5));
 
         return salmo;
     }
@@ -193,6 +199,7 @@ public class MySQLiteHelper extends SQLiteOpenHelper {
             salmo.setTitulo(cursor.getString(2));
             salmo.setTexto(cursor.getString(3));
             salmo.setData(cursor.getString(4));
+			salmo.setTrecho(cursor.getString(5));
         }
         else{
             salmo.setId(0);

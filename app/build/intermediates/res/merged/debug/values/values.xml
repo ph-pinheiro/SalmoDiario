@@ -10,6 +10,7 @@
     <string name="hello_world">Bem Vindo!</string>
     <string name="pordia">Salmo do Dia</string>
     <string name="sobre">Sobre</string>
+    <string name="sobreText1">Texto sobre 01</string>
     <string name="title_activity_buscar">Buscar Salmo</string>
     <string name="title_activity_main_activity2">MainActivity2</string>
     <string name="title_activity_sobre">Sobre</string>

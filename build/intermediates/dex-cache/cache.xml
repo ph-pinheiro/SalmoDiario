@@ -1,26 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="45958d833c4eb663f180071527886ecb74b14ccf">
-        <dex dex="/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4287c04bc5733a2bcde38e328e8d35f3f3c18c7b/classes.dex" />
-    </item>
-    <item
-        jar="/home/phpinheiro/AndroidSDK/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_75f1e96db692d4a36c556f948f3301f244f2cada/classes.dex" />
-    </item>
-    <item
-        jar="/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="19fa52a6745cce069013c29af7e71e44554bd82c">
-        <dex dex="/home/phpinheiro/StudioProjects/SalmoDiario/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3bc9ec11c983c6e8c8f270834a9b85c4b518ac87/classes.dex" />
-    </item>
-
-</items>
+<items version="2" />
